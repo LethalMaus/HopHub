@@ -1,7 +1,7 @@
 # HopHub
 
 <p align="center">
-  <img src="https://github.com/LethalMaus/HopHub/tree/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"><br>
+  <img src="https://lethalmaus.github.io/HopHub/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"><br>
 </p>
 
 This demo app showcases the following:
@@ -27,11 +27,11 @@ Search for beers on Punk API and add them to your favourites.
 Read into the details of each beer, such as the description, ingredients, brewers tips & food pairing.
 
 <p align="center">
-  <img src="https://github.com/LethalMaus/HopHub/tree/main/assets/Screenshot1.png" height="200">
-  <img src="https://github.com/LethalMaus/HopHub/tree/main/assets/Screenshot2.png" height="200">
-  <img src="https://github.com/LethalMaus/HopHub/tree/main/assets/Screenshot3.png" height="200">
-  <img src="https://github.com/LethalMaus/HopHub/tree/main/assets/Screenshot4.png" height="200">
-  <img src="https://github.com/LethalMaus/HopHub/tree/main/assets/Screenshot5.png" height="200">
+  <img src="https://lethalmaus.github.io/HopHub/assets/Screenshot1.png" height="200">
+  <img src="https://lethalmaus.github.io/HopHub/assets/Screenshot2.png" height="200">
+  <img src="https://lethalmaus.github.io/HopHub/assets/Screenshot3.png" height="200">
+  <img src="https://lethalmaus.github.io/HopHub/assets/Screenshot4.png" height="200">
+  <img src="https://lethalmaus.github.io/HopHub/assets/Screenshot5.png" height="200">
 </p>
 
 ## Features
