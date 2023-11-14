@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HopHub</string>
+    <string name="details">Details</string>
+    <string name="favourites">Favourites</string>
+
+    <string name="back">Back</string>
+    <string name="options">Options</string>
+    <string name="empty">No beers here…</string>
+    <string name="search">Search for a beer…</string>
+
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="tagline">Tagline</string>
+    <string name="food_pairing">Food Pairing</string>
+    <string name="brewers_tips">Brewers Tips</string>
+</resources>
