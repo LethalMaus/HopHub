@@ -7,14 +7,19 @@
 This demo app showcases the following:
 
 - Jetpack Compose
-- Ktor & Punk API
+- Ktor
+- Coil
 - Lottie Animations
-- Card & Pager Views
+- Card, Pager Views
+- Compose constraint layout
+- Punk API
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Known Issues](#known-issues)
+- [Roadmap](#roadmap)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
@@ -39,6 +44,19 @@ Read into the details of each beer, such as the description, ingredients, brewer
 - Search for a beer
 - Mark a beer as favourite
 - Read into the beer details
+
+## Known Issues
+
+- No error handling or timeouts with Ktor
+- Using global app states
+- Repeated code block
+- Description text is cut off
+
+## Roadmap
+
+- Resolve know issues
+- Write tests
+- Swap to KMP
 
 ## Getting Started
 
